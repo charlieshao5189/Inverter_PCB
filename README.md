@@ -3,6 +3,9 @@ Inverter_PCB
 
 a sample Inverter PCB board.
 
+1st Upload:
+2014/12/8 Inverter_PCBV1.0 It's designed by me about one month ago,  just a main control board of a sample inverter, it's used to create spwm and other contral signal.
+
 2014/10/24 
 总结了这一版PCB存在的问题：
 
@@ -11,6 +14,4 @@ a sample Inverter PCB board.
 2.RTC时钟引脚和系统时钟引脚放反了；
 
 3.按键的位置全部反了
-
-1st Upload:
-2014/12/8 Inverter_PCBV1.0 It's designed by me about one month ago,  just a main control board of a sample inverter, it's used to create spwm and other contral signal.
+2014/12/26
