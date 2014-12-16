@@ -3,4 +3,4 @@ History
 # 忽略html文件
 *.htm
 # 忽略__Previews文件
-__Previews
+__Previews/
